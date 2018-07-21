@@ -1,0 +1,3 @@
+CONFIG_ENABLE=False
+AVNUMBER='av26638018'
+DIRNAME='BiliDownload'
